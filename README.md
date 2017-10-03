@@ -1,1 +1,3 @@
-# tp3
+# tp3 Scilab
+
+simulation de lois
